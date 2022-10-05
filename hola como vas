@@ -1,0 +1,6 @@
+Juan=1
+
+if Juan==1
+  print("hello world")
+else
+  print("Hola mundo"
